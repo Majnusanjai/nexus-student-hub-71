@@ -7,40 +7,40 @@
 @layer base {
   :root {
     /* Main colors - Professional education theme */
-    --background: 248 250 252;
-    --foreground: 226 232 240;
+    --background: 210 40% 98%;
+    --foreground: 215 16% 47%;
 
-    --card: 255 255 255;
-    --card-foreground: 51 65 85;
+    --card: 0 0% 100%;
+    --card-foreground: 215 25% 27%;
 
-    --popover: 255 255 255;
-    --popover-foreground: 51 65 85;
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 25% 27%;
 
     /* Primary - Professional blue for education */
     --primary: 217 91% 60%;
-    --primary-foreground: 255 255 255;
+    --primary-foreground: 0 0% 100%;
     --primary-glow: 217 91% 75%;
 
     /* Secondary - Soft blue-gray */
     --secondary: 220 14% 96%;
-    --secondary-foreground: 51 65 85;
+    --secondary-foreground: 215 25% 27%;
 
     /* Success - Educational green */
     --success: 142 76% 36%;
-    --success-foreground: 255 255 255;
+    --success-foreground: 0 0% 100%;
 
     /* Warning - Academic orange */
     --warning: 32 95% 44%;
-    --warning-foreground: 255 255 255;
+    --warning-foreground: 0 0% 100%;
 
     --muted: 220 14% 96%;
-    --muted-foreground: 100 116 139;
+    --muted-foreground: 215 16% 47%;
 
     --accent: 217 91% 95%;
     --accent-foreground: 217 91% 60%;
 
     --destructive: 0 84% 60%;
-    --destructive-foreground: 255 255 255;
+    --destructive-foreground: 0 0% 100%;
 
     --border: 220 13% 91%;
     --input: 220 13% 91%;
@@ -49,7 +49,7 @@
     /* Gradients */
     --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%), hsl(217 91% 75%));
     --gradient-success: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 76% 50%));
-    --gradient-card: linear-gradient(145deg, hsl(255 255 255), hsl(248 250 252));
+    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(210 40% 98%));
 
     /* Shadows */
     --shadow-soft: 0 1px 3px 0 hsl(0 0% 0% / 0.1), 0 1px 2px -1px hsl(0 0% 0% / 0.1);
@@ -104,7 +104,7 @@
     --warning-foreground: 220 14% 96%;
 
     --muted: 24 33% 14%;
-    --muted-foreground: 100 116 139;
+    --muted-foreground: 215 16% 47%;
 
     --accent: 24 33% 14%;
     --accent-foreground: 217 91% 60%;
