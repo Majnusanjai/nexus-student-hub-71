@@ -30,7 +30,7 @@
     --success-foreground: 0 0% 100%;
 
     /* Warning - Academic orange */
-    --warning: 32 95% 44%;
+    --warning: 25 95% 53%;
     --warning-foreground: 0 0% 100%;
 
     --muted: 220 14% 96%;
@@ -100,7 +100,7 @@
     --success: 142 76% 36%;
     --success-foreground: 220 14% 96%;
 
-    --warning: 32 95% 44%;
+    --warning: 25 95% 53%;
     --warning-foreground: 220 14% 96%;
 
     --muted: 24 33% 14%;
